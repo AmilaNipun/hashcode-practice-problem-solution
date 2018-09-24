@@ -150,4 +150,4 @@ Hopefully this was an insightful read on one method to overcome this problem. Al
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details

@@ -3,7 +3,7 @@ using System.IO;
 
 namespace hashcode
 {
-	public class BigProgam
+	public class BigProgram
 	{
 		// predetermined integers from input file
 		static int R = 1000;
